@@ -1,5 +1,8 @@
 # Analysis of optimal midfield transition passes
 
+See the presentation for a short summary of the project.
+The paper provides all applied steps and logic. 
+
 In this project, multiple steps are performed:
 - parsing of data
 - preprocessing
@@ -15,7 +18,7 @@ In this project, multiple steps are performed:
 
 run main.py
 
-See the Paper and Presentation documents for the analysis that has been performed.
+
 
 ## Contributing
 
