@@ -15,6 +15,8 @@ In this project, multiple steps are performed:
 
 run main.py
 
+And See the Paper and Presentation documents for the analysis that has been performed.
+
 ## Contributing
 
 
